@@ -1,3 +1,5 @@
+کد نویسی شده توسط تیم پمپ نت
+
 <div align="center">
   <img src="svg/hero.svg" alt="SpiderPanel — control panel hero" width="100%" />
 
